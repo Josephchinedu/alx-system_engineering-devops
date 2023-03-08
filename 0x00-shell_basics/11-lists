@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aln & echo "" & ls -aln .. & echo "" & ls -aln /boot | tail -n +2
+ls -la . .. /boot
