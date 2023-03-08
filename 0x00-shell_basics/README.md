@@ -19,3 +19,6 @@ This file contains bash command that display current directory contents, includi
 ### 5-listfilesdigitonly
 This file contains bash command that display current directory contents: Long format, with user and group IDs displayed numerically, And hidden files (starting with .)
 #
+### 6-firstdirectory
+This file contains bash command that creates a directory named holberton in the /tmp/ directory
+#
