@@ -25,3 +25,6 @@ This file contains bash command that creates a directory named my_first_director
 ### 7-movethatfile
 This file contains bash command that moves the file betty from /tmp/ to /tmp/my_first_directory
 #
+### 8-firstdelete
+This file contains bash command that deletes the file betty
+#
