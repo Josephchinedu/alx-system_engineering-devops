@@ -43,3 +43,6 @@ This file contains bash command that prints the type of the file named iamafile.
 ### 13-symbolic_link
 This file contains bash command that creates a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 #
+### 14-copy_html
+This script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+#
