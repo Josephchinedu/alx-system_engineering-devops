@@ -20,5 +20,8 @@ This file contains bash command that display current directory contents, includi
 This file contains bash command that display current directory contents: Long format, with user and group IDs displayed numerically, And hidden files (starting with .)
 #
 ### 6-firstdirectory
-This file contains bash command that creates a directory named holberton in the /tmp/ directory
+This file contains bash command that creates a directory named my_first_directory in the /tmp/ directory
+#
+### 7-movethatfile
+This file contains bash command that moves the file betty from /tmp/ to /tmp/my_first_directory
 #
