@@ -31,3 +31,6 @@ This file contains bash command that deletes the file betty
 ### 9-firstdirdeletion
 This file contains bash command that deletes the directory my_first_directory that is in the /tmp directory
 #
+### 10-back
+This file contains bash command that changes the working directory to the previous one
+#
