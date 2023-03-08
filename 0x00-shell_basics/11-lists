@@ -1,2 +1,6 @@
 #!/bin/bash
-ls -aln; ls -aln ..; ls -aln /boot
+ls -aln
+echo ""
+ls -aln ..
+echo ""
+ls -aln /boot
