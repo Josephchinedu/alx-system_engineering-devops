@@ -1,10 +1,2 @@
 #!/bin/bash
-
-filename="/tmp/iamafile"
-
-if [ -f "$filename" ]; then
-    filetype=$(file -b "$filename")
-    echo "$filetype"
-else
-    echo "The file iamafile does not exist in the /tmp directory."
-fi
+file /tmp/iamafile
