@@ -13,3 +13,6 @@ This file contains bash command that changes the working directory to the userâ€
 ### 3-listfiles
 This file contains bash command that display current directory contents in a long format
 #
+### 4-listmorefiles
+This file contains bash command that display current directory contents, including hidden files (starting with .). Use the long format
+#
