@@ -1,0 +1,6 @@
+mkdir /tmp/u
+for file in *; do
+    if [[ $file =~ ^[A-Z] ]]; then
+        mv $file /tmp/u
+    fi
+done
