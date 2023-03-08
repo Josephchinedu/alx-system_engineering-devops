@@ -10,3 +10,6 @@ This file contains bash command that display the contents list of your current d
 ### 2-bring_me_home
 This file contains bash command that changes the working directory to the user’s home directory
 #
+### 3-listfiles
+This file contains bash command that display current directory contents in a long format
+#
