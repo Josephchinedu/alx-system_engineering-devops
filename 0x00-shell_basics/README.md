@@ -16,3 +16,6 @@ This file contains bash command that display current directory contents in a lon
 ### 4-listmorefiles
 This file contains bash command that display current directory contents, including hidden files (starting with .). Use the long format
 #
+### 5-listfilesdigitonly
+This file contains bash command that display current directory contents: Long format, with user and group IDs displayed numerically, And hidden files (starting with .)
+#
