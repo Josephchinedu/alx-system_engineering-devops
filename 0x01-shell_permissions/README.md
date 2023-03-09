@@ -52,3 +52,6 @@ The bash command changes the owner to vincent and the group owner to staff for a
 ### 101-symbolic_link_permissions
 This bash command changes the owner and the group owner of _hello to vincent and staff respectively.
 #
+### 102-if_only
+This bash command changes the owner of the file hello to betty only if it is owned by the user guillaume
+#
