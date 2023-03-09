@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1Ap | awk '{printf "%s%s", $0, (NR%6==2) ? ", " : ""}' | (echo "./"; echo "../"; cat) | sed '$a\'
+ls -p | grep -v / | tr "\n" "," | sed 's/,$/\n/' | tr -d "\n"
