@@ -2,3 +2,6 @@
 ### 0-iam_betty
 The bash command switches the current user to the user betty
 #
+### 1-who_am_i
+The bash command prints the effective username of the current user
+#
