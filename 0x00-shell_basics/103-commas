@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1Ap | awk '{printf "%s%s", $0, (NR%6==0) ? "\n" : ", "}'
+ls -p | grep -v / | tr "\n" "," | sed 's/,$/\n/'
