@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1A | awk '{printf "%s,", $0} END {printf "\n"}' | sed -e 's/,$/\n/'
+ls -1Ap | awk '{printf "%s%s", $0, (NR%6==2) ? ", " : ""}' | sed '1s/^/.\//; 2s/^/../; $a\'
