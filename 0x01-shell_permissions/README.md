@@ -36,3 +36,6 @@ The bash command sets the mode of the file hello to this:
 ### 10-mirror_permissions
 The bash command sets the mode of the file hello the same as olleh’s mode
 #
+### 11-directories_permissions
+The bash command adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
+#
