@@ -1,2 +1,2 @@
 #!/bin/bash
-{touch hello touch olleh chmod 753 hello chmod 753 olleh chmod --reference=olleh hello}
+chmod --reference=olleh hello
