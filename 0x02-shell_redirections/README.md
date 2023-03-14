@@ -74,4 +74,8 @@ Write a command that finds all empty files and directories in the current direct
 ### 101-gifs
 Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 
+### 102-acrostic
+An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche, from Greek ἀκροστιχία (akrostichia, “a letter at the end”), from ἄκρος (akros, “tip, extremity”) and στίχος (stichos, “poem”). The singular is ἀκροστίχιον (akrostichion).
+```bash
+
 
